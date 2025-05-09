@@ -1,0 +1,1 @@
+#while loop გამოგვადეგება მრავალ ალგორითმში და ასევე while loop ის მეშვეობით შეგვიძლია დავიცვათ phyton ის ერთერთი კანონი dont reapet your self

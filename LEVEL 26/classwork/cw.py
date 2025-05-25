@@ -1,4 +1,4 @@
-user = int(input ("enter number"))
+user = int(input ("enter number:"))
 if user == 7:
     print("number is 7")
 elif user  == 3:

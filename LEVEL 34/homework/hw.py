@@ -1,4 +1,5 @@
 def my_text():
     print("hello wrold")
 
-print(my_text)
+for i in range (10):
+    print(my_text)
